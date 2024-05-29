@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="shortcut icon" href="/assets/blood-donation-ico.png" type="image/x-icon">
+  <link rel="stylesheet" href="css/estilos.css">
+  <title>Doação de sangue</title>
+</head>
+<body>
+  <header>
+      <h1>Doação de Sangue</h1>
+      <nav class="menu">
+        <ul class="nav-items">
+          <li><a href="#sect-req">Requisitos</a></li>
+          <li><a href="#benef">Benefícios</a></li>
+        </ul>
+      </nav>
+  </header>
+ 
+<main>
+  <section class="sect_initial">
+        <article class="donation_text">
+            <h2>Entenda a importância de doar sangue.</h2>
+            <p>A doação de sangue é um ato nobre e de solidariedade que ajuda a salvar muitas vidas. Doando sangue, você pode ajudar nos tratamentos médicos, cirurgias e atendimentos de emergência na rede da saúde.</p>
+            <p>Sua contribuição é crucial para manter os estoques de sangue em níveis adequados e assegurar que, quando necessário, haja sangue disponível para quem precisa. A coleta do sangue dura apenas alguns minutos, mas os benefícios podem durar para toda a vida.
+          <p><strong>Doe sangue, compartilhe vida. O poder de mudar está em suas veias.</strong></p></p>
+      </article>
+</section>
+
+<section class="infos-donation">
+    <article class="info-text">
+      <p>
+        <em>Dados do Ministério da Saúde mostram que, atualmente, 14 em cada grupo de mil brasileiros são doadores de sangue no Sistema Único de Saúde (SUS). Isso significa que 1,4% da população doa sangue regularmente.</em>
+        <p><em>Fonte: agência Brasil</em></p>
+      </p>
+    </article>
+
+
+    <article class="info-text">
+      <p><em>Menos de 2% da população brasileira doa sangue regularmente, de acordo com dados do Ministério da Saúde. O índice está dentro do intervalo recomendado pela Organização Mundial da Saúde (OMS), que varia de 1 a 3%.</em></p>
+      <p><em>Fonte: Ministério da Saúde</em></p>
+    </article>
+</section>
+      
+<section class="sect_benef" id="benef">
+    <article class="text-benef">
+      <h2>Conheça os benefícios de doar sangue!</h2>
+      <p>Dado que o sangue não pode ser fabricado, cada doação é valiosa e tem um impacto duradouro na vida de muitas pessoas.</p>
+
+      <h4>Dia de Folga</h4>
+      <p>Doadores de sangue tem direito a um dia de folga mediante a apresentação de atestado porém o benefício só pode ser recebido uma vez a cada 365 dias e é exclusivo do regime CLT.</p>
+
+      <h4>Isenção de taxa de inscrição em concurso público</h4>
+      <p>No Distrito Federal, pessoas que comprovarem pelo menos três doações de sangue realizadas no período de um ano antes da inscrição no concurso têm direito à isenção do pagamento da taxa (Lei 4.949/2012).</p>
+
+      <h4>Redução de Doenças</h4>
+      <p> O ato de doar sangue reduz o risco de doenças cardíacas e contribui para a diminuição no risco do desenvolvimento de câncer.</p>
+  </article>
+
+  <div class="image-sect">
+    <img src="assets/hand-blood-donation.jpg" alt="">
+  </div>
+</section>
+
+<section class="sect_blood_verify" id="sect-req">
+      <div class="container">
+          <p>Selecione o seu tipo sanguíneo</p>
+            <select name="user_bloodType" id="user_bloodType">
+                <option value="A+">A+</option>
+                <option value="A-">A-</option>
+                <option value="B+">B+</option>
+                <option value="B-">B-</option>
+                <option value="AB+">AB+</option>
+                <option value="AB-">AB-</option>
+                <option value="O+">O+</option>
+                <option value="O-">O-</option>
+            </select>
+            <input type="button" id="button_check" value="VERIFICAR" onclick="verificaTipo()">
+            <p>Pode doar para:<span class="resultado_doar"></span></p>
+            <p>Pode receber de:<span class="resultado_receber"></span></p>
+      </div>
+        
+        <article class="text_requisitos">
+          <h2>Requisitos Básicos para doar sangue</h2>
+          <ul type="square">
+            <li>Ter idade entre 16 e 69 anos. Menores de 18 anos precisam de autorização dos pais ou responsáveis;
+            <li>Pessoas com idade entre 60 e 69 anos só poderão doar sangue se já o tiverem feito antes;
+            <li>Ter se alimentado (evitar alimentos gordurosos 4 horas antes da doação);
+            <li>Ter no mínimo 50 kg;
+            <li>Apresentar documento original com foto recente emitido por órgão oficial;
+            <li>Ter dormido pelo menos 6 horas nas últimas 24 horas;
+          </ul>
+        </article>
+</section>
+    </main>
+  <script src="script.js"></script>
+  </body>
+  <footer>
+    <p>&copy; 2024 Copyright - <a href="https://github.com/williamcouto" target="_blank">williamcouto</a></p>
+    <p>images by storyset on Freepik</p>
+  </footer>
+</html>
