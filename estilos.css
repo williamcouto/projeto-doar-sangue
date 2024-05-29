@@ -23,6 +23,7 @@ html{
 
 header{
     display: flex;
+    justify-content: space-between;
     font: 22px 'Manrope', arial, sans-serif;
     padding: 12px;
     text-align: left;
@@ -91,7 +92,7 @@ section{
 .donation_text{
     margin: auto;
     margin-top: 5%;
-    width: 50vw;
+    width: 65vw;
     height: 48vh;
     padding: 10px;
 }
@@ -206,14 +207,12 @@ img{
     padding: 10px;
 }
 
-
 .menu .nav-items{
     display: flex;
-    gap: 9px;
-    margin-left: 44px;
+    gap: 6px;
+    margin-right: 13px;
     line-height: 2em;
     list-style: none;
-  
 }
 
 .menu a{
