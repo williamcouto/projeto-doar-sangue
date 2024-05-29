@@ -79,7 +79,7 @@ section{
 }
 
 .sect_initial{
-    background-color: whitesmoke;
+    background-image: url(/assets/donation-blur1.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
