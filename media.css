@@ -1,0 +1,99 @@
+@media screen and (min-width:320px) and (max-width: 800px){
+
+    *{
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden;
+    }
+    
+    header{
+        display: block;
+        padding: 9px;
+        height: 17vh;
+        
+    }
+
+    nav{
+        height: 70vh;
+    }
+
+    header h1{
+        font-size: 1.5em;
+        margin-bottom: 10px;
+    }
+
+   
+
+    .sect_initial{
+        height: 87vh;
+    }
+
+    .donation_text{
+        width: 80vw;
+        height: 77vh;
+        margin-top: 25px;
+    }
+
+    .sect_benef{
+        height: 115vh;
+    }
+
+    .text-benef{
+        background-color: rgba(245, 245, 245, 0.488);
+        width: 84vw;
+        height: 106vh;
+    }
+
+    .image-sect{
+        display: none;
+    }
+
+    .sect_blood_verify{
+        display: flex;
+        flex-direction: column-reverse;
+        height: 117vh;
+        
+    }
+
+    .text_requisitos{
+        position: relative;
+        top: 0;
+        width: 78vw;
+        height: 100vh;
+    }
+
+    .container{
+        width: 280px;
+        height: 310px;
+        padding: 5px;
+    }
+
+    .infos-donation{
+        display: flex;
+        flex-direction: column;
+        width: 100vw;
+        height: 67vh;
+        gap: 5px;
+    }
+
+    .info-text {
+        width: 81vw;
+        height: 32vh;
+        padding: 8px;
+    }
+
+
+    select{
+        width: 150px;
+        height: 35px;
+        padding: 5px;
+    }
+
+   
+
+    footer{
+        width: 100vw;
+        height: 9vh;
+        padding: 7px;
+    }
+}
