@@ -33,7 +33,6 @@ header{
     background-color:var(--cor01); 
 }
 
-
 header > h1{
     font-size: 38px;
     padding-left: 25px;
@@ -86,13 +85,11 @@ section{
     
 }
 
-
-
 .donation_text{
     margin: auto;
-    margin-top: 5%;
-    width: 65vw;
-    height: 48vh;
+    margin-top: 10%;
+    width: 63vw;
+    height: 41vh;
     padding: 10px;
 }
 
@@ -116,7 +113,7 @@ section{
     display: flex;
     flex-direction: row;
     padding: 10px;
-    height: 80vh;
+    height: 85vh;
     background-color: var(--cor03); 
 }
 
