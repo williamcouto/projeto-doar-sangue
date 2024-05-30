@@ -55,9 +55,8 @@ h4{
     text-align: left;
 }
 
-
 body{
-    font: 16px 'Open Sans', Arial, sans-serif;
+    font-size: 'Open Sans', Arial, sans-serif;
 }
 
 section{
@@ -140,15 +139,14 @@ section{
 }
 
 footer{
-    background-color: var(--cor04);
+    background-color: var(--cor02);
     width: 100vw;
-    height: 13vh;
+    height: 11vh;
     color: #ffff;
     text-align: center;
 }
 
 footer, a {
-    font-family: 'Inter', Arial, sans-serif;
     color: #ffff;
 }
 
@@ -246,9 +244,9 @@ img{
 }
 
 .faq-sect{
-    background-color: #ffff;
     padding: 14px;
     margin-top: 10px;
+    height: 80vh;
 }
 
 .faq-sect h1{
@@ -258,9 +256,7 @@ img{
 
 details{
     padding: 11px;
-    width: 94vw;
-    /* margin-left: 30px; */
-    background-color: #EBEBEB;
+    width: 75vw;
 }
 
 #faq-container{
@@ -270,8 +266,9 @@ details{
 }
 
 summary{
-    background-color: #ffff;
+    background-color: var(--cor02);
+    color: #ffff;
     font-size: 1.1em;
-    padding: 9px;
+    padding: 11px;
     border-radius: 7px;
 }
