@@ -6,7 +6,7 @@
 :root{
     --cor01: #7A0000; 
     --cor02: #861717;
-    --cor03: #EBEBEB;
+    --cor03: #F3EFF5;
     --cor04: #982828; 
 }
 
@@ -114,16 +114,16 @@ section{
     flex-direction: row;
     padding: 10px;
     height: 85vh;
+    gap: 80px;
     background-color: var(--cor03); 
 }
 
-/*Seção de requisitos*/
 .text_requisitos{
     box-shadow: 5px 7px 0px -1px rgba(0, 0, 0, 0.197);
     position: relative;
     background-color: #ffff;
     width: 55vw;
-    height: 60vh;
+    height: 50vh;
     padding: 20px;
     left: 30px;
     top: 26px;
