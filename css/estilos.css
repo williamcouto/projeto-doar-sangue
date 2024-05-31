@@ -94,9 +94,22 @@ section{
 
 .text-benef{
     width: 50vw;
-    height: 85vh;
+    height: 84vh;
     margin: 15px;
-    line-height: 2em;
+    overflow-y: hidden;
+}
+
+.text-benef summary{
+    background-color: var(--cor03);
+    color: #000;
+    width: 475px;
+    height: 50px;
+}
+
+.text-benef details{
+    background-color: #ffff;
+    width: 587px;
+    
 }
 
 .text_requisitos h2{
