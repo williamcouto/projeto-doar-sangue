@@ -3,7 +3,7 @@
     *{
         margin: 0;
         padding: 0;
-        overflow-x: hidden;
+        overflow-y: hidden;
     }
     
     header{
@@ -36,13 +36,17 @@
 
 
     .text-benef{
-        background-color: rgba(209, 21, 21, 0.488);
-        width: 84vw;
-        height: 70vh;
+        width: 80vw;
     }
 
     .text-benef summary{
-        width: 70vw;
+        width: 60vw;
+        height: 69px;
+    }
+
+    .text-benef details{
+        width: 100vw;
+        height: 35vh;
     }
 
     .image-sect{
