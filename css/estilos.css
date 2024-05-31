@@ -1,6 +1,7 @@
 @charset "UTF-8";
 @import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
 
 :root{
     --cor01: #7A0000; 
@@ -54,7 +55,7 @@ h4{
 }
 
 body{
-    font-size: 'Open Sans', Arial, sans-serif;
+    font-family: 'Noto Sans', Arial, sans-serif;
 }
 
 section{
@@ -135,7 +136,7 @@ section{
     position: relative;
     background-color: #ffff;
     width: 55vw;
-    height: 50vh;
+    height: 55vh;
     padding: 20px;
     left: 30px;
     top: 26px;
@@ -160,6 +161,7 @@ footer, a {
 }
 
 article{
+    font-family: 'Noto Sans', arial, sans-serif;
     background-color: #ffff;
     padding: 20px;
     border-radius: 5px;
