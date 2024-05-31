@@ -34,14 +34,15 @@
         margin-top: 25px;
     }
 
-    .sect_benef{
-        height: 115vh;
-    }
 
     .text-benef{
-        background-color: rgba(245, 245, 245, 0.488);
+        background-color: rgba(209, 21, 21, 0.488);
         width: 84vw;
-        height: 106vh;
+        height: 70vh;
+    }
+
+    .text-benef summary{
+        width: 70vw;
     }
 
     .image-sect{
@@ -51,7 +52,7 @@
     .sect_blood_verify{
         display: flex;
         flex-direction: column-reverse;
-        height: 117vh;
+        height: 120vh;
         
     }
 
@@ -71,9 +72,9 @@
     .infos-donation{
         display: flex;
         flex-direction: column;
+        align-items: center;
         width: 100vw;
-        height: 67vh;
-        gap: 5px;
+        height: 65vh;
     }
 
     .info-text {
