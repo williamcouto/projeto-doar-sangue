@@ -88,8 +88,8 @@ section{
     margin: auto;
     margin-top: 10%;
     width: 63vw;
-    height: 50vh;
-    padding: 10px;
+    height: 47vh;
+    padding:8px;
 }
 
 .text-benef{
@@ -237,7 +237,7 @@ img{
     justify-content: space-around;
     background-color: var(--cor02);
     width: 100vw;
-    height: 33vh;
+    height: 31vh;
 }
 
 .info-text{
