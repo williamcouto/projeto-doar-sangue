@@ -150,12 +150,19 @@ section{
 footer{
     background-color: var(--cor02);
     width: 100vw;
-    height: 13vh;
+    height: 10vh;
     color: #ffff;
     text-align: center;
+    padding: 5px;
 }
 
-footer, a {
+footer p{
+    color: #ffff;
+    font-size: 14px;
+    line-height: 2px;
+}
+
+footer a{
     color: #ffff;
 }
 
