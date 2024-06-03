@@ -269,26 +269,28 @@ img{
 }
 
 details{
-    padding: 16px;
-    width: 70vw;
+    width: 66vw;
+    padding: 5px;
     background-color: #f8f5f5;
-}
-
-#faq-container{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
 }
 
 summary{
     background-color: var(--cor02);
     color: #ffff;
     font-size: 1.1em;
-    padding: 10px;
+    padding: 4px;
     border-radius: 7px;
+    width: 65vw;
+    height: 50px;
 }
 
 summary , p{
     padding: 13px;
     
+}
+
+#faq-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
