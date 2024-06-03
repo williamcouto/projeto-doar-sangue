@@ -4,7 +4,7 @@
 
 :root{
     --cor01: #7A0000; 
-    --cor02: #861717;
+    --cor02: #ac0a0a;
     --cor03: #ECE4B7;
 }
 
@@ -99,15 +99,15 @@ section{
 }
 
 .text-benef summary{
+    background-color: #faf9f9;
     color: #000;
     width: 475px;
     height: 50px;
 }
 
 .text-benef details{
-    background-color: #ffff;
     width: 587px;
-    
+    padding: 5px;
 }
 
 .text_requisitos h2{
