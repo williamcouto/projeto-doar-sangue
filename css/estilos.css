@@ -26,14 +26,14 @@ header{
     padding: 12px;
     text-align: left;
     width: 100vw;
-    height: 14vh;
+    height: 13vh;
     color: #ffff;
-    background-color:var(--cor01); 
+    background-color:var(--cor02); 
 }
 
 header > h1{
     font-size: 38px;
-    padding-left: 25px;
+    padding-left: 30px;
 }
 
 p{
@@ -233,7 +233,7 @@ img{
 }
 
 .menu a:hover{
-    background-color: var(--cor02);
+    background-color: var(--cor01);
     
 }
 
