@@ -267,7 +267,7 @@ img{
 }
 
 details{
-    width: 66vw;
+    width: 63vw;
     padding: 5px;
 }
 
@@ -277,7 +277,7 @@ summary{
     font-size: 1.1em;
     padding: 4px;
     border-radius: 7px;
-    width: 65vw;
+    width: 58vw;
     height: 50px;
 }
 
