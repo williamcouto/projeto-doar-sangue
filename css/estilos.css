@@ -148,10 +148,10 @@ section{
 footer{
     background-color: var(--cor02);
     width: 100vw;
-    height: 10vh;
+    height: 13vh;
     color: #ffff;
     text-align: center;
-    padding: 5px;
+    padding: 11px;
 }
 
 footer p{
