@@ -218,7 +218,7 @@ img{
     padding: 10px;
 }
 
-.menu .nav-items{
+nav ul{
     display: flex;
     gap: 6px;
     margin-right: 13px;
@@ -226,16 +226,19 @@ img{
     list-style: none;
 }
 
-.menu a{
+nav a{
     color: #ffff;
     text-decoration: none;
     padding: 9px;
     border-radius: 6px;
 }
 
-.menu a:hover{
-    background-color: var(--cor01);
-    
+nav a:hover{
+    background-color: var(--cor01);  
+}
+
+#menu-burguer{
+    display: none;
 }
 
 .infos-donation{

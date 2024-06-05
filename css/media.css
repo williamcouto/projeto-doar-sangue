@@ -19,20 +19,20 @@
         padding-left: 10px;
     }
 
-    .menu .nav-items{
+    .nav-items{
         display: flex;
         flex-direction: column;
         align-items: center;
         list-style: none;
     }
     
-    .menu a{
+    .nav-items a{
         color: #ffff;
         text-decoration: none;
         border-radius: 6px;
     }
     
-    .menu a:hover{
+    .nav-items a:hover{
         background-color: var(--cor01);
         
     }
