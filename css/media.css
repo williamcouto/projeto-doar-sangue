@@ -10,7 +10,7 @@
     
     header{
         width: 100vw;
-        height: 38vh;
+        height: auto;
         display: block;
     }
 
@@ -40,8 +40,12 @@
     #menu-burguer{
         display: block;
         text-align: center;
-        padding: 5px;
+        padding: 7px;
         cursor: pointer;
+    }
+
+    #menu-burguer:hover{
+        background-color: var(--cor01);
     }
 
 
