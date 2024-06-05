@@ -10,7 +10,7 @@
     
     header{
         width: 100vw;
-        height: 40vh;
+        height: 38vh;
         display: block;
     }
 
@@ -19,20 +19,20 @@
         padding-left: 10px;
     }
 
-    .nav-items{
+    nav ul{
         display: flex;
         flex-direction: column;
         align-items: center;
         list-style: none;
     }
     
-    .nav-items a{
+    nav a{
         color: #ffff;
         text-decoration: none;
         border-radius: 6px;
     }
     
-    .nav-items a:hover{
+    nav a:hover{
         background-color: var(--cor01);
         
     }
