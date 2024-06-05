@@ -117,8 +117,7 @@
 
     .faq-sect{
         width: 100vw;
-        height: 80vh;
-        margin-top: 10px;
+        height: 100vh;
     }
     
     .faq-sect h1{
@@ -127,8 +126,7 @@
     }
     
     details{
-        width: 90vw;
-        padding: 10px;
+        width: 100%;
     }
     
     summary{
@@ -136,8 +134,8 @@
         color: #ffff;
         font-size: 1.1em;
         border-radius: 7px;
-        width: 100vw;
-        height: 40px;
+        width: 90vw;
+        height: 62px;
     }
     
     #faq-container{
