@@ -37,6 +37,14 @@
         
     }
 
+    #menu-burguer{
+        display: block;
+        text-align: center;
+        padding: 5px;
+        cursor: pointer;
+    }
+
+
     .donation_text{
         width: 80vw;
         height: 80vh;
