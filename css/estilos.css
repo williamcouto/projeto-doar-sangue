@@ -93,7 +93,7 @@ section{
 
 .text-benef{
     width: 50vw;
-    height: 84vh;
+    height: 80vh;
     margin: 15px;
     overflow-y: hidden;
 }
@@ -143,6 +143,7 @@ section{
     display: flex;
     background-color: #ffff;
     padding: 10px;
+    height: 90vh;
 }
 
 footer{
