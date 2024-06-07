@@ -136,7 +136,7 @@
     footer { 
         background-color: var(--cor02);
         width: 100vw;
-        height: 10vh;
+        height: 9vh;
         color: #ffff;
         text-align: center;
         padding: 10px;
@@ -173,12 +173,30 @@
         font-size: 1em;
         border-radius: 7px;
         width: 90vw;
-        height: 60px;
+        height: 65px;
     }
     
     #faq-container{
         display: flex;
         flex-direction: column;
         align-items: center;
+    }
+
+    .infos-donation{
+        display: flex;
+        flex-direction: row;
+        background-color: var(--cor02);
+        width: 100vw;
+        height: 31vh;
+    }
+    
+    .info-text{
+        font-family: 'Times New Roman', Arial, serif, sans-serif;
+        width: 39%;
+        height: 170px;
+        margin: 10px;
+        padding: 12px; 
+        overflow-y: hidden;
+        background-color: #ffff;
     }
 }
