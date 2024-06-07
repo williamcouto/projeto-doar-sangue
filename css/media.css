@@ -116,7 +116,7 @@
     
     #button_check{
         width: 142px;
-        height: 29px;
+        height: 32px;
         font: 15px 'Noto Sans', Arial, sans-serif;
         background-color: var(--cor02);
         border: solid 1px rgba(0, 0, 0, 0.86);
@@ -183,20 +183,23 @@
     }
 
     .infos-donation{
-        display: flex;
-        flex-direction: row;
         background-color: var(--cor02);
         width: 100vw;
-        height: 31vh;
+        height: 27vh;
     }
-    
+
     .info-text{
+        display: flex; 
+        flex-direction: row;
         font-family: 'Times New Roman', Arial, serif, sans-serif;
         width: 39%;
         height: 170px;
-        margin: 10px;
-        padding: 12px; 
+        margin: 8px;
+        padding: 10px;
         overflow-y: hidden;
         background-color: #ffff;
+
     }
+
+
 }
