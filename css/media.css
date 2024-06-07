@@ -136,7 +136,7 @@
     footer { 
         background-color: var(--cor02);
         width: 100vw;
-        height: 9vh;
+        height: 10vh;
         color: #ffff;
         text-align: center;
         padding: 10px;
@@ -152,14 +152,9 @@
         color: #ffff;
     }
 
-    .faq-sect{
-        width: 100vw;
-        height: 95vh;
-    }
-    
     .faq-sect h1{
         text-align: center;
-        margin-bottom: 12px;
+        margin-bottom: 10px;
     }
     
     details{
