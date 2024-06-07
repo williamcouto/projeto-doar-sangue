@@ -76,7 +76,7 @@ section{
 }
 
 .sect_initial{
-    background-image: url(assets/donation-blur1.png);
+    background-image: url(/assets/donation-blur1.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -246,15 +246,15 @@ nav a:hover{
     justify-content: space-around;
     background-color: var(--cor02);
     width: 100vw;
-    height: 31vh;
+    height: 32vh;
 }
 
 .info-text{
     font-family: 'Times New Roman', Arial, serif, sans-serif;
-    width: 39%;
+    width: 37%;
     height: 170px;
     margin: 10px;
-    padding: 12px; 
+    padding: 8px; 
     overflow-y: hidden;
     background-color: #ffff;
 }
