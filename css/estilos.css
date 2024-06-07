@@ -271,17 +271,17 @@ nav a:hover{
 }
 
 details{
-    width: 63vw;
+    width: 60vw;
     padding: 5px;
 }
 
 summary{
     background-color: var(--cor02);
     color: #ffff;
-    font-size: 1.1em;
+    font-size: 1em;
     padding: 4px;
-    border-radius: 7px;
-    width: 58vw;
+    border-radius: 6px;
+    width: 70vw;
     height: 50px;
 }
 
