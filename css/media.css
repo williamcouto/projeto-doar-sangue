@@ -186,7 +186,7 @@
         text-align: center;
         background-color: var(--cor02);
         width: 100vw;
-        height: 27vh;
+        height: 50vh;
     }
 
     .info-text{
@@ -194,7 +194,8 @@
         width: 86%;
         height: 170px;
         margin: auto;
-        padding: 10px;
+        margin-top: 10px;
+        padding: 5px;
         overflow-y: hidden;
         background-color: #ffff;
 
