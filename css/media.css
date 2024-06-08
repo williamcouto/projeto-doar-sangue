@@ -2,7 +2,7 @@
 @media screen and (min-width:320px) and (max-width:800px){
     
     *{
-        overflow: hidden;
+        overflow-x: hidden;
         padding: 0px;
         margin: 0px;
     }
