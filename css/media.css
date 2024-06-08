@@ -15,8 +15,8 @@
 
     header > h1{
         font-size: 36px;
-        padding-left: 10px;
-        margin-bottom: 14px;
+        padding-left: 8px;
+        margin-bottom: 5px;
     }
 
     nav ul{
@@ -43,7 +43,7 @@
     #menu-burguer{
         display: block;
         text-align: center;
-        padding: 7px;
+        padding: 4px;
         cursor: pointer;
     }
 
@@ -52,8 +52,8 @@
     }
 
     .donation_text{
-        width: 80vw;
-        height: 83vh;
+        width: 85vw;
+        height: 77vh;
     }
 
     .text-benef{
