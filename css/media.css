@@ -2,7 +2,7 @@
 @media screen and (min-width:320px) and (max-width:800px){
     
     *{
-        overflow-x: hidden;
+        overflow-y: hidden;
         padding: 0px;
         margin: 0px;
     }
@@ -49,6 +49,14 @@
 
     #menu-burguer:hover{
         background-color: var(--cor01);
+    }
+
+    .sect_initial{
+        background-image: url(/assets/donation-blur1.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 93vh;
+        
     }
 
     .donation_text{
