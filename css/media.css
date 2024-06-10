@@ -60,8 +60,8 @@
     }
 
     .donation_text{
-        width: 85vw;
-        height: 72vh;
+        width: 87vw;
+        height: 75vh;
         text-align: justify;
     }
 
@@ -83,7 +83,8 @@
     }
 
     .sect_benef{
-        height: 80vh;
+        height: 77vh;
+        overflow: hidden;
     }
 
     .image-sect{
@@ -163,7 +164,7 @@
 
     .faq-sect h1{
         text-align: center;
-        margin-bottom: 10px;
+        margin-bottom: 7px;
     }
     
     details{
