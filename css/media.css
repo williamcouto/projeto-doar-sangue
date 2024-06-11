@@ -60,9 +60,8 @@
     }
 
     .donation_text{
-        width: 75vw;
-        height: 75vh;
-        text-align: justify;
+        width: 80vw;
+        height: 82vh;
     }
 
     .text-benef{
@@ -94,24 +93,22 @@
     .sect_blood_verify{
         display: flex;
         flex-direction: column-reverse;
-        padding: 10px;
-        height: 110vh;
+        height: 100vh;
         background-color: var(--cor03); 
     }
     
     .text_requisitos{
         box-shadow: 5px 7px 0px -1px rgba(0, 0, 0, 0.197);
         background-color: #ffff;
-        width: 82vw;
-        height: 87vh;
+        width: 85vw;
     }
 
     .container{
         display: flex;
-        align-items: left;
+        justify-content: center;
         background-color: #ffff;
         width: 300px;
-        height: 45vh;
+        height: 40vh;
         border: solid 1px #000000a9;
         border-radius: 5px;
     }
