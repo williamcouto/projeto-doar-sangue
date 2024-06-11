@@ -55,13 +55,13 @@
         background-image: url(/assets/donation-blur1.png);
         background-repeat: no-repeat;
         background-size: cover;
-        height: 93vh;
+        height: 87vh;
         
     }
 
     .donation_text{
         width: 80vw;
-        height: 82vh;
+        height: 70vh;
     }
 
     .text-benef{
