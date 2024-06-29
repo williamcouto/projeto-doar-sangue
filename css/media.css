@@ -179,6 +179,7 @@
         border-radius: 6px;
         width: 90vw;
         height: 65px;
+        overflow: hidden;
     }
     
     #faq-container{
