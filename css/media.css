@@ -61,7 +61,7 @@
 
     .donation_text{
         width: 80vw;
-        height: 70vh;
+        height: 75vh;
     }
 
     .text-benef{
@@ -193,13 +193,12 @@
         text-align: center; 
         background-color: var(--cor02);
         width: 100vw;
-        height: 50vh;
+        height: 55vh;
     }
 
     .info-text{
         font-family: 'Times New Roman', Arial, serif, sans-serif;
         width: 85%;
-        height: 163px;
         margin: auto;
         margin-top: 10px;
         padding: 4px;
