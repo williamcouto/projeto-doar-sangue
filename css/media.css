@@ -92,17 +92,17 @@
 
     .sect_blood_verify{
         display: flex;
-        flex-direction: column-reverse;
+        flex-direction: column;
         background-color: var(--cor03);
         overflow: hidden;
-        gap: 1;
+        height: 100vh;
     }
     
     .text_requisitos{
         box-shadow: 5px 7px 0px -1px rgba(0, 0, 0, 0.197);
         background-color: #ffffff;
         width: 80vw;
-        
+        height: 100vh;
     }
 
     .container{
