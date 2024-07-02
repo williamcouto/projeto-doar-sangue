@@ -174,9 +174,9 @@
         background-color: var(--cor02);
         color: #ffff;
         font-size: 1em;
-        border-radius: 6px;
+        border-radius: 4px;
         width: 90vw;
-        height: 65px;
+        height: 55px;
         overflow: hidden;
     }
     
