@@ -92,24 +92,22 @@
 
     .sect_blood_verify{
         display: flex;
-        flex-direction: column;
+        flex-direction: column-reverse;
         background-color: var(--cor03);
         overflow: hidden;
-        height: 100vh;
     }
     
     .text_requisitos{
         box-shadow: 5px 7px 0px -1px rgba(0, 0, 0, 0.197);
         background-color: #ffffff;
-        width: 80vw;
-        height: 100vh;
+      
     }
 
     .container{
         display: flex;
         align-items: center;
         background-color: #ffff;
-        width: 80vw;
+        width: 78vw;
         height: 70vh;
         padding: 5px;
         border: solid 1px #000000a9;
@@ -117,7 +115,7 @@
     }
 
     select{
-        width: 180px;
+        width: 185px;
         height: 30px;
         font: 15px 'Noto Sans', Arial, sans-serif;
         border: solid 1px #00000087;
