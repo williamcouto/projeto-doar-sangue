@@ -172,16 +172,15 @@
     
     details{
         width: 100%;
-        
+        margin: 5px;
     }
     
     summary{
         background-color: var(--cor02);
         color: #ffff;
-        font-size: 1em;
         border-radius: 4px;
         width: 90vw;
-        height: 55px;
+        height: 60px;
         overflow: hidden;
     }
     
