@@ -105,6 +105,10 @@
         height: 70vh;
     }
 
+    .text_requisitos h2{
+        padding-top: 2px;
+    }
+
     .container{
         display: flex;
         align-items: center;
@@ -142,14 +146,15 @@
     footer { 
         background-color: var(--cor02);
         width: 100vw;
-        height: 9vh;
+        height: 55px;
         color: #ffff;
+        padding: 4px;
         text-align: center;
     }
 
     footer p {
         color: #ffff;
-        font-size: 12px;
+        font-size: 11px;
     }
 
     footer a{
