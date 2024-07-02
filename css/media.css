@@ -74,7 +74,7 @@
         background-color: #faf9f9;
         color: #000;
         width: 360px;
-        height: 65px;
+        height: 60px;
     }
     
     .text-benef details{
@@ -82,7 +82,7 @@
     }
 
     .sect_benef{
-        height: 78vh;
+        height: 75vh;
         overflow: hidden;
     }
 
@@ -95,7 +95,7 @@
         flex-direction: column-reverse;
         background-color: var(--cor03);
         overflow: hidden;
-        height: 110vh;
+        height: 100vh;
     }
     
     .text_requisitos{
