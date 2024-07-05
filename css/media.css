@@ -154,7 +154,7 @@
 
     footer p {
         color: #ffff;
-        font-size: 11px;
+        font-size: 13px;
     }
 
     footer a{
@@ -163,11 +163,12 @@
 
     .faq-sect h1{
         text-align: center;
-        margin-bottom: 7px;
+        margin-bottom: 5px;
     }
 
     .faq-sect{
         overflow: hidden;
+        height: 100vh;
     }
     
     details{
