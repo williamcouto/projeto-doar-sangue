@@ -194,10 +194,11 @@
     .infos-donation{
         display: flex;
         flex-direction: column;
+        gap: 5;
         text-align: center; 
         background-color: var(--cor02);
         width: 100vw;
-        height: 55vh;
+        height: 62vh;
     }
 
     .info-text{
