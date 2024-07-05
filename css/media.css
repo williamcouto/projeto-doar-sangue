@@ -146,9 +146,9 @@
     footer { 
         background-color: var(--cor02);
         width: 100vw;
-        height: 55px;
+        height: 57px;
         color: #ffff;
-        padding: 4px;
+        padding: 7px;
         text-align: center;
     }
 
