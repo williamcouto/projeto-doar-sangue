@@ -172,7 +172,6 @@
     }
     
     details{
-        width: 100%;
         margin: 5px;
     }
     
@@ -183,6 +182,12 @@
         width: 90vw;
         height: 60px;
         overflow: hidden;
+    }
+
+    summary , p{
+        width: 75%;
+        padding: 9px;
+        text-align: justify; 
     }
     
     #faq-container{
