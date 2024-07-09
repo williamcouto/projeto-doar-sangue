@@ -286,9 +286,9 @@ summary{
 }
 
 summary , p{
-    width: 80%;
+    width: 75%;
     padding: 9px;
-    
+    text-align: justify; 
 }
 
 #faq-container{
