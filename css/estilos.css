@@ -285,9 +285,9 @@ summary{
     height: 50px;
 }
 
-summary , p{
-    width: 75%;
-    padding: 9px;
+.sect_benef  summary ~ p{
+    width: 70%;
+    padding: 8px;
     text-align: justify; 
 }
 
