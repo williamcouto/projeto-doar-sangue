@@ -271,7 +271,7 @@ nav a:hover{
 }
 
 details{
-    width: 60vw;
+    width: 50vw;
     padding: 5px;
 }
 
@@ -286,7 +286,8 @@ summary{
 }
 
 summary , p{
-    padding: 13px;
+    width: 80%;
+    padding: 9px;
     
 }
 
