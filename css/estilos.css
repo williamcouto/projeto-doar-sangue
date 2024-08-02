@@ -100,18 +100,6 @@ section{
     overflow-y: hidden;
 }
 
-.text-benef summary{
-    background-color: #faf9f9;
-    color: #000;
-    width: 475px;
-    height: 50px;
-}
-
-.text-benef details{
-    width: 587px;
-    padding: 5px;
-}
-
 .text_requisitos h2{
     background-color: var(--cor02);
     color: #ffff;
