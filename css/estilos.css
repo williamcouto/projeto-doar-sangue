@@ -140,12 +140,13 @@ section{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    margin-top: 5%;
 }
 
 .container-benef div{
     display: flex;
     flex-direction: column;
-    width: 500px;
+    width: 430px;
     align-items: center;
     border: 2px solid #000000e8;
 }
