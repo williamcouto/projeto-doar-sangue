@@ -163,20 +163,22 @@ h2 + p{
 footer{
     background-color: var(--cor02);
     width: 100vw;
-    height: 13vh;
+    height: 12vh;
     color: #ffff;
     text-align: center;
-    padding: 11px;
+    padding: 12px;
+    overflow: hidden;
 }
 
 footer p{
     color: #ffff;
     font-size: 14px;
-    line-height: 2px;
+    line-height: 1.1em;
 }
 
 footer a{
     color: #ffff;
+    font-weight: bold;
 }
 
 article{
