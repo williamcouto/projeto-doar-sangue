@@ -148,7 +148,6 @@ section{
     flex-direction: column;
     width: 430px;
     align-items: center;
-    border: 2px solid #000000e8;
 }
 
 .container-benef p {
