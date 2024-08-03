@@ -45,7 +45,7 @@ h2{
     text-align: center;
     font: bold 23px 'Manrope', Arial, sans-serif;
     padding: 3px;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 body{
@@ -100,7 +100,7 @@ section{
     background-color: var(--cor02);
     color: #ffff;
     border-radius: 6px;
-    margin-bottom: 15px;
+    margin-bottom: 5px;
     text-align: center;
 }
 
