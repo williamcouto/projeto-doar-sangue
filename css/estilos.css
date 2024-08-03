@@ -102,15 +102,15 @@ section{
     border-radius: 6px;
     margin-bottom: 15px;
     text-align: center;
-    padding: 5px;
 }
 
 .sect_blood_verify{
     display: flex;
     flex-direction: row;
+    justify-content: center;
+    gap: 30px;
     padding: 10px;
-    height: 85vh;
-    gap: 80px;
+    height: 80vh;
     background-color: var(--cor03); 
 }
 
@@ -119,10 +119,10 @@ section{
     position: relative;
     background-color: #ffff;
     width: 55vw;
-    height: 58vh;
+    height: 55vh;
     padding: 20px;
     left: 30px;
-    top: 26px;
+    top: 20px;
 }
 
 .sect_benef{
