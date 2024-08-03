@@ -147,9 +147,14 @@ section{
 }
 
 .container-benef p {
-    text-align: center;
-    
+    text-align: center;   
 }
+
+img{
+    width: 155px;
+    margin: 15px;
+}
+
 
 h2 + p{
     text-align: center;
@@ -213,10 +218,6 @@ li{
 
 li::marker{     /*Altera a cor do marcador*/
     color: #7A0000;
-}
-
-img{
-    width: 160px;
 }
 
 nav ul{
