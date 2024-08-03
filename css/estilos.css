@@ -45,6 +45,7 @@ h2{
     text-align: center;
     font: bold 23px 'Manrope', Arial, sans-serif;
     padding: 3px;
+    margin-top: 20px;
 }
 
 body{
@@ -221,7 +222,7 @@ img{
 nav ul{
     display: flex;
     gap: 6px;
-    margin-right: 13px;
+    margin-right: 20px;
     line-height: 2em;
     list-style: none;
 }
@@ -234,7 +235,7 @@ nav a{
 }
 
 nav a:hover{
-    background-color: var(--cor01);  
+    background-color: var(--cor01);
 }
 
 #menu-burguer{
