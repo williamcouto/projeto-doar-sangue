@@ -155,6 +155,10 @@ section{
     
 }
 
+h2 + p{
+    text-align: center;
+}
+
 footer{
     background-color: var(--cor02);
     width: 100vw;
