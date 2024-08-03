@@ -130,10 +130,29 @@ section{
 }
 
 .sect_benef{
-    display: flex;
     background-color: #ffff;
     padding: 10px;
     height: 90vh;
+}
+
+
+.container-benef{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.container-benef div{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    align-items: center;
+    border: 2px solid #000000e8;
+}
+
+.container-benef p {
+    text-align: center;
+    
 }
 
 footer{
@@ -197,15 +216,7 @@ li::marker{     /*Altera a cor do marcador*/
 }
 
 img{
-    box-shadow: 5px 8px 0px -1px rgba(0, 0, 0, 0.44);
-    width: 510px;
-    height: 390px;
-}
-
-.image-sect{
-    display: flex;
-    align-items: center;
-    padding: 10px;
+    width: 160px;
 }
 
 nav ul{
@@ -273,12 +284,6 @@ summary{
     border-radius: 8px;
     width: 55vw;
     height: 50px;
-}
-
-.sect_benef  summary ~ p{
-    width: 70%;
-    padding: 8px;
-    text-align: justify; 
 }
 
 #faq-container{
