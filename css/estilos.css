@@ -135,7 +135,7 @@ section{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    margin-top: 8%;
+    margin-top: 6%;
 }
 
 .container-benef div{
