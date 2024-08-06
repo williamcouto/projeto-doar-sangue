@@ -1,6 +1,7 @@
 @charset "UTF-8";
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Volkhov:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Maitree:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montaga&display=swap');
 
 :root{
     --cor01: #7A0000; 
@@ -49,7 +50,7 @@ h2{
 }
 
 body{
-    font-family: 'Noto Sans', Arial, sans-serif;
+    font-family: 'Maitree', Arial, sans-serif;
 }
 
 section{
@@ -72,7 +73,7 @@ section{
 }
 
 .sect_initial{
-    background-image: url(/assets/donation-blur1.png);
+    background: url(assets/donation-blur1.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -179,7 +180,7 @@ footer a{
 }
 
 article{
-    font-family: 'Noto Sans', arial, sans-serif;
+    font-family: 'Maitree', arial, sans-serif;
     background-color: #ffff;
     padding: 20px;
     border-radius: 5px;
