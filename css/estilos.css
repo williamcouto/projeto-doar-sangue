@@ -73,7 +73,7 @@ section{
 }
 
 .sect_initial{
-    background: url(assets/donation-blur1.png);
+    background: url(/assets/donation-blur1.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
