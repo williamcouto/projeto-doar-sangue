@@ -1,5 +1,5 @@
 @charset 'UTF-8';
-@media screen and (max-width: 800px){
+@media screen and (min-width: 320px) and (max-width: 800px){
     
     *{
         padding: 0px;
@@ -59,42 +59,28 @@
         
     }
 
-    .donation_text{
-        width: 85vw;
-        height: 75vh;
-    }
-
-    .text-benef{
-        width: 90vw;
-        height: 90vh;
-        margin-left: 5px;
-    }
-    
-    .text-benef summary{
-        background-color: #faf9f9;
-        color: #000;
-        width: 360px;
-        height: 60px;
-    }
-    
-    .text-benef details{
-        width: 100%;
-    }
-
     .sect_benef{
-        height: 75vh;
+        height: 100vh;
         overflow: hidden;
     }
 
-    .image-sect{
-        display: none;
+    .container-benef img {
+        width: 120px;
+        height: 170px;
     }
+
+    .container-benef{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: 100vh;
+    }
+
+
 
     .sect_blood_verify{
         display: flex;
         flex-direction: column-reverse;
-        background-color: var(--cor03);
-        overflow: hidden;
         height: 100vh;
     }
     
@@ -103,17 +89,15 @@
         background-color: #ffffff;
         width: 80vw;
         height: 100vh;
-    }
-
-    .text_requisitos h2{
-        padding-top: 2px;
+        padding: 10px;
     }
 
     .container{
         display: flex;
-        align-items: center;
+        align-items: flex-start;
         background-color: #ffff;
-        width: 78vw;
+        width: 80vw;
+        height: 50vh;
         padding: 5px;
         border: solid 1px #000000a9;
         border-radius: 5px;
