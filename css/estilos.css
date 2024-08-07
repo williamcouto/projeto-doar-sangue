@@ -1,7 +1,6 @@
 @charset "UTF-8";
 @import url('https://fonts.googleapis.com/css2?family=Volkhov:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Maitree:wght@200;300;400;500;600;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Montaga&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
 :root{
     --cor01: #7A0000; 
@@ -24,7 +23,7 @@ header{
     display: flex;
     justify-content: space-between;
     font: 22px 'Volkhov', arial, sans-serif;
-    padding: 12px;
+    padding: 10px;
     text-align: left;
     width: 100vw;
     height: 13vh;
@@ -50,7 +49,7 @@ h2{
 }
 
 body{
-    font-family: 'Maitree', Arial, sans-serif;
+    font-family: 'Inter', Arial, sans-serif;
 }
 
 section{
@@ -77,14 +76,13 @@ section{
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
-    
 }
 
 .donation_text{
     margin: auto;
     margin-top: 12%;
     width: 59vw;
-    height: 37vh;
+    height: 40vh;
     padding: 15px;
     background-color: #ffffffee;
 }
@@ -179,7 +177,7 @@ footer a{
 }
 
 article{
-    font-family: 'Maitree', arial, sans-serif;
+    font-family: 'Inter', arial, sans-serif;
     background-color: #ffff;
     padding: 20px;
     border-radius: 5px;
@@ -188,14 +186,14 @@ article{
 select{
     width: 190px;
     height: 31px;
-    font: 15px 'Maitree', Arial, sans-serif;
+    font: 15px 'Inter', Arial, sans-serif;
     border: solid 1px #00000087;
 }
 
 #button_check{
     width: 145px;
     height: 29px;
-    font: 15px 'Maitree', Arial, sans-serif;
+    font: 14px 'Inter', Arial, sans-serif;
     background-color: var(--cor02);
     border: solid 1px rgba(0, 0, 0, 0.86);
     border-radius: 5px;
