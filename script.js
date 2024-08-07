@@ -155,3 +155,14 @@ function clickMenu(){
         menu_items.style.display = 'block'
     }
 }
+
+
+// Código para adicionar a interatividade ao FAQ
+const questionFAQ = document.querySelectorAll('.boxFaq')
+
+questionFAQ.forEach(boxFaq => {
+    boxFaq.addEventListener('click' ,() => {
+        const answFaq = boxFaq.querySelector('.answer-faq')
+        answFaq.classList.toggle('active')
+    })
+})
