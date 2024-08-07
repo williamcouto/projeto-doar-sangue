@@ -183,18 +183,16 @@
     .infos-donation{
         display: flex;
         flex-direction: column;
-        gap: 5;
-        text-align: center; 
+        gap: 5px; 
         background-color: var(--cor02);
         width: 100vw;
-        height: 62vh;
+        height: 50vh;
     }
 
     .info-text{
         font-family: 'Times New Roman', Arial, serif, sans-serif;
-        width: 85%;
-        margin: auto;
-        margin-top: 10px;
+        width: 90vw;
+        text-align: center;
         padding: 4px;
         border: solid 1px #00000070;
     }
