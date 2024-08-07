@@ -261,34 +261,4 @@ nav a:hover{
     background-color: #ffff;
 }
 
-.faq-sect{
-    padding: 14px;
-    margin-top: 10px;
-   
-}
 
-.faq-sect h1{
-    text-align: center;
-    margin-bottom: 12px;
-}
-
-details{
-    width: 50vw;
-    padding: 5px;
-}
-
-summary{
-    background-color: var(--cor02);
-    color: #ffff;
-    font-size: 1em;
-    padding: 6px;
-    border-radius: 8px;
-    width: 55vw;
-    height: 50px;
-}
-
-#faq-container{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
