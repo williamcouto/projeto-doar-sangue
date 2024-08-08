@@ -125,15 +125,15 @@ section{
 
 .sect_benef{
     background-color: #ffff;
-    padding: 10px;
     height: 88vh;
+    padding: 10px;
 }
 
 .container-benef{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    margin-top: 6%;
+    margin-top: 3%;
 }
 
 .container-benef div{
@@ -160,7 +160,7 @@ h2 + p{
 footer{
     background-color: var(--cor02);
     width: 100vw;
-    height: 12vh;
+    height: 10vh;
     color: #ffff;
     text-align: center;
     padding: 12px;
@@ -243,26 +243,8 @@ nav a:hover{
     display: none;
 }
 
-.infos-donation{
-    display: flex;
-    justify-content: space-around;
-    background-color: var(--cor02);
-    width: 100vw;
-    height: 28vh;
-}
-
-.info-text{
-    font-family: 'Times New Roman', Arial, serif, sans-serif;
-    width: 43%;
-    height: 140px;
-    margin: 10px;
-    padding: 5px;
-    overflow-y: hidden;
-    background-color: #ffff;
-}
-
 .boxFaq{
-    background-color: #f3f3f3;
+    background-color: #f7f7f7;
     border-radius: 5px;
     padding: 10px;
     cursor: pointer;
@@ -273,11 +255,12 @@ nav a:hover{
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 10px;
+    gap: 5px;
 }
 
 .faq-sect{
-    height: 100vh;
+    height: 110vh;
+    overflow: hidden;
 }
 
 .faq-sect h2{
@@ -299,7 +282,7 @@ nav a:hover{
     background-color: transparent;
     text-align: left;
     width: 97%;
-    height: 50px;
+    height: 45px;
 }
 
 .answer-faq{
