@@ -65,7 +65,7 @@
     }
 
     .sect_benef{
-        height: 100vh;
+        height: 100%;
         overflow-y: hidden;
     }
 
@@ -82,7 +82,8 @@
     }
 
     .container-benef p{
-        width: 80%;
+        width: 70%;
+        font-size: 15px;
         text-align: left;
     }
 
@@ -156,11 +157,6 @@
         color: #ffff;
     }
 
-    .faq-sect h1{
-        text-align: center;
-        margin-bottom: 5px;
-    }
-
     .faq-sect{
         overflow: hidden;
         height: 100vh;
@@ -173,7 +169,7 @@
     }
 
     .faq-sect h2{
-        margin-bottom: 20px;
+        margin-bottom: 30px;
         padding: 10px;
         background-color: var(--cor02);
         color: #ffff;
