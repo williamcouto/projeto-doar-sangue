@@ -224,7 +224,7 @@ nav a:hover{
     border-radius: 3px;
     padding: 10px;
     cursor: pointer;
-    width: 76vw;
+    width: 80vw;
     border-left: 3px solid var(--cor01);
 }
 
@@ -246,7 +246,7 @@ nav a:hover{
 }
 
 .quest-faq h3{
-    max-width: 100%;
+    width: 100%;
     text-overflow: ellipsis;
     white-space: nowrap;
 }
@@ -258,7 +258,7 @@ nav a:hover{
     border: none;
     background-color: transparent;
     text-align: left;
-    width: 95%;
+    width: 98%;
     height: 45px;
 }
 
