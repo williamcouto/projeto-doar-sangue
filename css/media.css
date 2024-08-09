@@ -178,9 +178,6 @@
     .faq-sect h2{
         margin-bottom: 30px;
         padding: 10px;
-        background-color: var(--cor02);
-        color: #ffff;
-        width: 94%;
     }
 
     .boxFaq{

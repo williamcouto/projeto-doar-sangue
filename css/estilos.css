@@ -245,17 +245,18 @@ nav a:hover{
 
 .boxFaq{
     background-color: #f7f7f7;
-    border-radius: 5px;
+    border-radius: 3px;
     padding: 10px;
     cursor: pointer;
-    width: 80vw;
+    width: 76vw;
+    border-left: 3px solid var(--cor01);
 }
 
 .faq-container{
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 5px;
+    gap: 7px;
 }
 
 .faq-sect{
@@ -281,7 +282,7 @@ nav a:hover{
     border: none;
     background-color: transparent;
     text-align: left;
-    width: 97%;
+    width: 95%;
     height: 45px;
 }
 
