@@ -19,6 +19,10 @@ html{
     scroll-behavior: smooth;
 }
 
+h1{
+    font: 22px 'Volkhov', arial, sans-serif;
+}
+
 header{
     display: flex;
     justify-content: space-between;
@@ -32,7 +36,7 @@ header{
 }
 
 header > h1{
-    font-size: 38px;
+    font-size: 37px;
     padding-left: 25px;
 }
 
@@ -79,12 +83,16 @@ section{
 }
 
 .donation_text{
-    margin: auto;
-    margin-top: 12%;
-    width: 59vw;
-    height: 40vh;
+    margin-left: 40px;
+    margin-top: 10%;
+    width: 44vw;
+    height: 55vh;
     padding: 15px;
-    background-color: #ffffffee;
+    background-color: #fffffffb;
+}
+
+.donation_text h1{
+    font-size: 35px;
 }
 
 .text-benef{
