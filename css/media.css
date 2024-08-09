@@ -58,7 +58,7 @@
     }
 
     .sect_initial{
-        background-image: url(/assets/donation-blur1.png);
+        background-image: url(assets/donation-blur1.png);
         background-repeat: no-repeat;
         background-size: cover;
         height: 85vh;

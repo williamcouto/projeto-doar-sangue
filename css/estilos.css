@@ -1,6 +1,6 @@
 @charset "UTF-8";
-@import url('https://fonts.googleapis.com/css2?family=Volkhov:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
 
 :root{
     --cor01: #7A0000; 
@@ -20,14 +20,16 @@ html{
 }
 
 h1{
-    font: 22px 'Volkhov', arial, sans-serif;
+    font-family: 'Oswald', arial, sans-serif;
+    font-size: 32px;
 }
 
 header{
     display: flex;
     justify-content: space-between;
-    font: 22px 'Volkhov', arial, sans-serif;
-    padding: 10px;
+    font-family: 'Oswald', arial, sans-serif;
+    font-size: 25px;
+    padding: 7px;
     text-align: left;
     width: 100vw;
     height: 13vh;
@@ -47,7 +49,7 @@ p{
 
 h2{
     text-align: center;
-    font: bold 23px 'Volkhov', Arial, sans-serif;
+    font: bold 23px 'Oswald', Arial, sans-serif;
     padding: 3px;
     margin-top: 10px;
 }
@@ -83,16 +85,12 @@ section{
 }
 
 .donation_text{
-    margin-left: 40px;
-    margin-top: 10%;
-    width: 44vw;
+    margin-left: 30px;
+    margin-top: 7%;
+    width: 40vw;
     height: 55vh;
     padding: 15px;
     background-color: #fffffffb;
-}
-
-.donation_text h1{
-    font-size: 35px;
 }
 
 .text-benef{
