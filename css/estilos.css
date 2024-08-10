@@ -75,7 +75,7 @@ section{
     align-self: center;
     background-color: #ffff;
     padding: 10px;
-    width: 25vw;
+    width: 27vw;
     height: 40vh;
     border: 1px solid #00000069;
     border-radius: 3px;
@@ -89,12 +89,22 @@ section{
 }
 
 .donation_text{
-    margin-left: 30px;
-    margin-top: 7%;
-    width: 40vw;
-    height: 55vh;
+    margin: 10% 0 0 5px;
+    width: 98%;
+    height: 45vh;
     padding: 15px;
-    background-color: #fffffffb;
+    background-color: #fffffff1;
+}
+
+.donation_text h1{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.donation_text p{
+    width: 50%;
+    margin: auto;
+    text-align: left;
 }
 
 .text-benef{
