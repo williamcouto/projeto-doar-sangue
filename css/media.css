@@ -78,8 +78,8 @@
     }
 
     .container-benef img {
-        width: 100px;
-        height: 110px;
+        width: 96px;
+        height: 100px;
     }
 
     .container-benef{
@@ -92,8 +92,9 @@
     .container-benef p{
         text-align: center;
         overflow: hidden;
+        font-size: 15px;
         width: 77%;
-        color: #423e3e;
+        color: #313030;
     }
 
     .sect_blood_verify{
@@ -109,7 +110,7 @@
         width: 88vw;
         height: 70%;
         position: relative;
-        top: 5px;
+        top: 15px;
         padding: 5px;
         padding-left: 15px;
     }
