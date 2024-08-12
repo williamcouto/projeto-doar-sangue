@@ -61,14 +61,18 @@
     .sect_initial{
         background-repeat: no-repeat;
         background-size: cover;
-        height: 95vh;
-        
+        height: 100vh;
+    }
+
+    .donation_text p{
+        text-align: left;
     }
 
     .donation_text{
-        width: 90vw;
-        height: 500px;
-        margin-top: 10%;
+        width: 84vw;
+        height: 90vh;
+        margin: auto;
+        margin-top: 30px;
     }
 
     .sect_benef{
@@ -195,15 +199,6 @@
         background-color: var(--cor02);
         width: 100vw;
         height: 48vh;
-    }
-
-    .info-text{
-        font-family: 'Times New Roman', Arial, serif, sans-serif;
-        width: 95vw;
-        height: 24vh;
-        text-align: center;
-        padding: 6px;
-        border: solid 1px #00000070;
     }
 
     article{
