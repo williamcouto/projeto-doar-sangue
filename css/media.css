@@ -59,21 +59,24 @@
     }
 
     .sect_initial{
-        background-image: url(./assets/donation-blur1.png);
+        background-image: url(../assets/blood-donation-back.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         height: 100vh;
+        background-position: center bottom;
     }
 
     .donation_text p{
         text-align: left;
+        width: 82%;
     }
 
     .donation_text{
-        width: 84vw;
-        height: 90vh;
+        width: 90vw;
+        height: 72vh;
         margin: auto;
-        margin-top: 30px;
+        margin-top: 38px;
+        background-color: #ffffffd5;
     }
 
     .sect_benef{
@@ -91,6 +94,7 @@
         flex-direction: column;
         align-items: center;
         height: 100%;
+        gap: 15px;
     }
 
     .container-benef p{
@@ -98,7 +102,7 @@
         overflow: hidden;
         font-size: 15px;
         width: 77%;
-        color: #313030;
+        color: #202020;
     }
 
     .sect_blood_verify{
@@ -190,6 +194,10 @@
 
     .boxFaq{
         width: 90vw;
+    }
+
+    .quest-faq > h3{
+        font-family: 'Inter', Arial, Helvetica, sans-serif;
     }
 
 
