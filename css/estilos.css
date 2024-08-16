@@ -82,8 +82,8 @@ section{
 }
 
 .sect_initial{
-    background: url(/assets/blood-back.jpg);
-    background-position: center bottom;
+    background: url(../assets/blood-donation-back1.jpg);
+    background-position: center bottom; 
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -98,12 +98,13 @@ section{
 }
 
 .donation_text h1{
-    text-align: left;
-    margin-bottom: 10px;
+    margin-bottom: 13px;
+    color: #000;
 }
 
 .donation_text p{
     width: 50%;
+    color: #000;
 }
 
 .text-benef{
