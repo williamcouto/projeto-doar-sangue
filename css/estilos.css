@@ -330,7 +330,8 @@ article{
 
 .buttonFaq{
     background-color: var(--cor02);
-    padding: 5px;
+    padding: 6px;
     color: #ffff;
     border-radius: 50%;
+    cursor: pointer;
 }
