@@ -82,29 +82,28 @@ section{
 }
 
 .sect_initial{
-    background: url(../assets/donation-blur1.png);
+    background: url(/assets/blood-back.jpg);
+    background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
 }
 
 .donation_text{
-    margin: 10% 0 0 5px;
+    margin: 8% 0 0 5px;
     width: 98%;
     height: 45vh;
     padding: 15px;
-    background-color: #fffffff1;
+    background-color: transparent;
 }
 
 .donation_text h1{
-    text-align: center;
+    text-align: left;
     margin-bottom: 10px;
 }
 
 .donation_text p{
     width: 50%;
-    margin: auto;
-    text-align: left;
 }
 
 .text-benef{
@@ -167,8 +166,11 @@ section{
 }
 
 img{
-    width: 155px;
-    margin: 15px;
+    width: 150px;
+    margin: 10px;
+    background-color: var(--cor01);
+    border-radius: 10%;
+    padding: 10px;
 }
 
 
