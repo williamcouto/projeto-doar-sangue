@@ -242,6 +242,10 @@ nav a:hover{
     display: none;
 }
 
+.quest-faq > h3{
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
+}
+
 .boxFaq{
     background-color: #f7f7f7;
     border-radius: 3px;
@@ -322,4 +326,11 @@ article{
     background-color: #ffff;
     padding: 20px;
     border-radius: 5px;
+}
+
+.buttonFaq{
+    background-color: var(--cor02);
+    padding: 5px;
+    color: #ffff;
+    border-radius: 50%;
 }
