@@ -17,6 +17,8 @@ Após inserir seu tipo sanguíneo, clique no botão "Verificar" para obter infor
 - **Perguntas Frequentes**: Na seção de FAQ, é possível encontrar respostas para perguntas frequentes em relação ao processo de doação de sangue.
 Em breve, planejo adicionar mais funcionalidades ao projeto e garantir que fique atualizado!
 
+- **Responsividade**
+![](/assets/screenshot-responsive.png)
 ## Contribuições
 Se deseja contribuir para este projeto, fique à vontade para enviar solicitações de pull com melhorias ou correções de bugs.
 
