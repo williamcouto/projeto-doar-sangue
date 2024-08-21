@@ -137,7 +137,7 @@
 
     select{
         width: 70%;
-        height: 40px;
+        height: 32px;
         font: 15px 'Inter', Arial, sans-serif;
         border: solid 1px #00000087;
     }
@@ -194,7 +194,7 @@
     }
 
     .boxFaq{
-        width: 90vw;
+        width: 93vw;
     }
 
     .quest-faq > h3{
