@@ -69,6 +69,7 @@
     .donation_text p{
         text-align: left;
         width: 82%;
+        padding: 5px;
     }
 
     .donation_text{
@@ -114,9 +115,9 @@
     
     .text_requisitos{
         box-shadow: 5px 7px 0px -1px rgba(0, 0, 0, 0.197);
-        background-color: #ffffff;
-        width: 88vw;
-        height: 70%;
+        background-color: #ffff;
+        width: 92vw;
+        height: 60%;
         position: relative;
         top: 15px;
         padding: 5px;
@@ -135,9 +136,9 @@
     }
 
     select{
-        width: 185px;
-        height: 30px;
-        font: 15px 'Noto Sans', Arial, sans-serif;
+        width: 70%;
+        height: 40px;
+        font: 15px 'Inter', Arial, sans-serif;
         border: solid 1px #00000087;
     }
     
