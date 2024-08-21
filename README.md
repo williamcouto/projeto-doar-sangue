@@ -18,7 +18,9 @@ Após inserir seu tipo sanguíneo, clique no botão "Verificar" para obter infor
 Em breve, planejo adicionar mais funcionalidades ao projeto e garantir que fique atualizado!
 
 - **Responsividade**
-![](/assets/screenshot-responsive.png)
+<div style= display: inline-block>
+  <img src='./assets/screenshot-responsive.png'>
+</div>
 ## Contribuições
 Se deseja contribuir para este projeto, fique à vontade para enviar solicitações de pull com melhorias ou correções de bugs.
 
