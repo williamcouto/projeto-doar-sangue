@@ -59,7 +59,7 @@
     }
 
     .sect_initial{
-        background-image: url(../assets/blood-donation-back.jpg);
+        background-image: url(/assets/blood-donation-back.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         height: 90vh;
@@ -213,5 +213,79 @@
     article{
         overflow: hidden;
         margin: 0;
+    }
+}
+/* TABLET */
+@media screen and (max-width: 1280px) {
+    .donation_text{
+        width: 95vw;
+        font-size: 22px;
+    }
+
+    header{
+        width: 100vw;
+        height: 10vh;
+    }
+
+    .sect_initial{
+        background-image: url(/assets/blood-donation-back.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 70vh;
+        background-position: center bottom;
+    }
+
+    .sect_benef{
+        height: 100%;
+        overflow-y: hidden;
+    }
+
+    .container-benef{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        height: 100%;
+        gap: 10px;
+    }
+
+    .container-benef p{
+        text-align: center;
+        overflow: hidden;
+        width: 77%;
+        color: #202020;
+    }
+
+    .container-benef img{
+        width: 150px;
+        height: 150px;
+    }
+    
+    .container{
+        display: flex;
+        align-items: flex-start;
+        background-color: #ffff;
+        width: 60vw;
+        height: 250px; 
+        padding: 8px;
+        border: solid 1px #000000a9;
+        border-radius: 5px;
+    }
+
+    .text_requisitos{
+        box-shadow: 5px 7px 0px -1px rgba(0, 0, 0, 0.197);
+        background-color: #ffff;
+        width: 92vw;
+        height: 35vh;
+        position: relative;
+        top: 5%;
+        padding: 6px;
+        padding-left: 15px;
+    }
+
+    .sect_blood_verify{
+        display: flex;
+        flex-direction: row-reverse;
+        align-items: center;
+        height: 55vh;
     }
 }
