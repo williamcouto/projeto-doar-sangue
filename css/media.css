@@ -117,11 +117,11 @@
         box-shadow: 5px 7px 0px -1px rgba(0, 0, 0, 0.197);
         background-color: #ffff;
         width: 92vw;
-        height: 60%;
+        height: 600px;
         position: relative;
         top: 15px;
         padding: 5px;
-        padding-left: 15px;
+        padding-left: 12px;
     }
 
     .container{
@@ -129,7 +129,7 @@
         align-items: center;
         background-color: #ffff;
         width: 88vw;
-        height: 250px;
+        height: 310px;
         padding: 8px;
         border: solid 1px #000000a9;
         border-radius: 5px;
