@@ -305,7 +305,21 @@
     }
 
     .faq-sect h2{
+        font-size: 30px;
         margin-bottom: 23px;
         padding: 10px;
+    }
+
+    footer { 
+        background-color: var(--cor02);
+        width: 100vw;
+        height: 80px;
+        color: #ffff;
+        padding: 6px;
+        text-align: center;
+    }
+
+    footer p{
+        font-size: 17px;
     }
 }
