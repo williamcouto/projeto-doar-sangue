@@ -117,7 +117,7 @@
         box-shadow: 5px 7px 0px -1px rgba(0, 0, 0, 0.197);
         background-color: #ffff;
         width: 92vw;
-        height: 600px;
+        height: 550px;
         position: relative;
         top: 15px;
         padding: 5px;
@@ -129,7 +129,7 @@
         align-items: center;
         background-color: #ffff;
         width: 90vw;
-        height: 310px;
+        height: 290px;
         padding: 8px;
         border: solid 1px #000000a9;
         border-radius: 5px;
@@ -197,7 +197,6 @@
 
     .boxFaq{
         width: 90vw;
-        height: 10vh;
     }
 
     .quest-faq > h3{
