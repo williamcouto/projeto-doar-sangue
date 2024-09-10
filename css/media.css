@@ -288,4 +288,23 @@
         align-items: center;
         height: 55vh;
     }
+
+    .faq-sect{
+        height: 65vh;
+    }
+
+    .boxFaq{
+        width: 92vw;
+    }
+
+    .faq-container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .faq-sect h2{
+        margin-bottom: 16px;
+        padding: 10px;
+    }
 }
