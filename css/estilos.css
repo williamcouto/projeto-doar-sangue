@@ -252,11 +252,12 @@ nav a:hover{
 }
 
 .boxFaq{
-    background-color: #f7f7f7;
-    border-radius: 3px;
+    background-color: #f7f7f742;
+    border-radius: 4px;
     padding: 10px;
+    padding-left: 20px;
     cursor: pointer;
-    width: 80vw;
+    width: 88vw;
     border-left: 3px solid var(--cor01);
 }
 
@@ -311,7 +312,7 @@ footer{
     height: 10vh;
     color: #ffff;
     text-align: center;
-    padding: 9px;
+    padding: 7px;
     overflow: hidden;
 }
 
