@@ -77,7 +77,7 @@
         height: 600px;
         margin: auto;
         margin-top: 30px;
-        background-color: #ffffffd5;
+        background-color: #ffffffef;
     }
 
     .sect_benef{
@@ -86,7 +86,7 @@
     }
 
     .container-benef img {
-        width: 96px;
+        width: 95px;
         height: 100px;
     }
 
@@ -116,12 +116,12 @@
     .text_requisitos{
         box-shadow: 5px 7px 0px -1px rgba(0, 0, 0, 0.197);
         background-color: #ffff;
-        width: 92vw;
+        width: 91vw;
         height: 550px;
         position: relative;
-        top: 15px;
+        top: 17px;
         padding: 5px;
-        padding-left: 10px;
+        padding-left: 11px;
         margin: auto;
     }
 
@@ -137,11 +137,11 @@
     }
 
     select{
-        width: 95%;
-        height: 32px;
+        width: 97%;
+        height: 38px;
         font: 15px 'Inter', Arial, sans-serif;
         border: solid 1px #00000087;
-        padding: 3px;
+        padding: 5px;
     }
     
     #button_check{
