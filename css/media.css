@@ -239,8 +239,8 @@
         background-image: url(/assets/blood-donation-back.jpg);
         background-repeat: no-repeat;
         background-size: cover;
-        height: 70vh;
-        background-position: center bottom;
+        height: 80vh;
+        background-position: center center;
     }
 
     .sect_benef{
@@ -257,15 +257,15 @@
     }
 
     .container-benef p{
-        text-align: center;
+        text-align: left;
         overflow: hidden;
-        width: 77%;
-        color: #202020;
+        width: 90%;
+        color: #1b1b1bd8;
     }
 
     .container-benef img{
-        width: 150px;
-        height: 150px;
+        width: 130px;
+        height: 140px;
     }
 
     .container-benef h3{
