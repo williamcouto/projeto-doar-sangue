@@ -1,5 +1,6 @@
 # 🩸 Doação de sangue
 Este repositório contém um site simples que permite aos usuários verificar a compatibilidade de tipos sanguíneos. Os usuários podem inserir seu tipo sanguíneo e obter informações sobre quais tipos sanguíneos eles podem doar e de quem podem receber.
+O objetivo desse repositório é incentivar a doação de sangue para todos e facilitar esse processo tão indispensável em nossa sociedade.
 
 ## Como Usar
 Após inserir seu tipo sanguíneo, clique no botão "Verificar" para obter informações sobre os tipos sanguíneos aos quais você pode doar e dos quais pode receber.
@@ -21,7 +22,5 @@ Em breve, planejo adicionar mais funcionalidades ao projeto e garantir que fique
 <div style= display: inline-block>
   <img src='./assets/screenshot-responsive.png'>
 </div>
-
-O objetivo desse repositório é incentivar a doação de sangue para todos e facilitar esse processo tão indispensável em nossa sociedade.
 
 🧠 Feito por williamcouto | Licença: MIT
