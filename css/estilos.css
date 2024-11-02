@@ -169,7 +169,7 @@ section{
 img{
     width: 140px;
     margin: 10px;
-    background-color: var(--cor01);
+    /* background-color: var(--cor01); */
     border-radius: 10%;
     padding: 10px;
 }
@@ -177,6 +177,7 @@ img{
 img:hover{
     scale: 102%;
     transition: scale 0.2s;
+    background-color: var(--cor03);
 }
 
 
