@@ -185,8 +185,8 @@ h2 + p{
 }
 
 select{
-    width: 190px;
-    height: 31px;
+    width: 70%;
+    height: 33px;
     font: 15px 'Inter', Arial, sans-serif;
     border: 1px solid #00000057;
     border-radius: 2px;
@@ -274,8 +274,11 @@ nav a:hover{
 }
 
 .faq-sect h2{
-    margin-bottom: 12px;
-    padding: 10px;
+    margin-bottom: 13px;
+    padding: 6px;
+    text-align: left;
+    padding-left: 7%;
+    font-size: 30px;
 }
 
 .quest-faq h3{
