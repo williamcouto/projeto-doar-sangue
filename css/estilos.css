@@ -169,7 +169,6 @@ section{
 img{
     width: 140px;
     margin: 10px;
-    /* background-color: var(--cor01); */
     border-radius: 10%;
     padding: 10px;
 }
@@ -177,7 +176,7 @@ img{
 img:hover{
     scale: 102%;
     transition: scale 0.2s;
-    background-color: var(--cor03);
+    background-color: var(--cor02);
 }
 
 
@@ -233,15 +232,15 @@ nav ul{
 }
 
 nav a{
-    color: #ffff;
+    color: #ffffff;
     text-decoration: none;
     padding: 9px;
     border-radius: 6px;
 }
 
 nav a:hover{
-    border-bottom: 2px solid #fff;
-    border-radius: 2px;
+    border-bottom: 3px solid #fff;
+    border-radius: 1px;
 }
 
 #menu-burguer{
@@ -292,7 +291,7 @@ nav a:hover{
     border: none;
     background-color: transparent;
     text-align: left;
-    width: 98%;
+    width: 97%;
     height: 45px;
 }
 
