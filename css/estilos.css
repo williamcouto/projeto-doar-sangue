@@ -174,9 +174,9 @@ img{
 }
 
 img:hover{
-    scale: 102%;
+    scale: 108%;
     transition: scale 0.2s;
-    background-color: var(--cor02);
+    background-color: #F99F9F;
 }
 
 
